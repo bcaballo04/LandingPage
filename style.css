@@ -67,8 +67,32 @@ button{
     max-width: 460px;
 }
 
+.sec2{
+    margin-top: 30px;
+}
+
+.imglist, .txtlist, .bigblack{
+    display: flex;
+    justify-content: center;
+}
+
 .content ul li img{
-    height: 120px;
-    width: 120px;
+    height: 200px;
+    width: 200px;
+}
+
+.bigblack{
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.content ul{
+    display: flex;
+    gap: 40px;
+}
+
+.txtlist ul li{
+    max-width: 200px;
+    text-align: center;
 }
 
