@@ -117,3 +117,36 @@ button{
     display: flex;
     justify-content: flex-end;
 }
+
+.sec4{
+    display: flex;
+    justify-content: center;
+    margin: 70px;
+}
+
+.container{
+    width: 800px;
+    height: 150px;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.call{
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.lower{
+    color: white;
+    font-size: 15px;
+    margin: 0px;
+    font-weight: lighter;
+}
+
+.container button{
+    border-color: white;
+}
