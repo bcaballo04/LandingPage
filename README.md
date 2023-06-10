@@ -1,0 +1,1 @@
+This is a project utiliizng basic CSS and HTML skills to design a simple landing page.
