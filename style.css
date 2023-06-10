@@ -1,6 +1,6 @@
 .sec1{
     background-color: #1F2937;
-    padding: 5px 250px;
+    padding: 15px 250px;
 }
 
 body{
@@ -13,7 +13,7 @@ body{
 }
 
 .lower img{
-    height: 240px;
+    height: 200px;
     width: 360px;
 }
 
@@ -44,9 +44,15 @@ a{
 }
 
 .bigtext{
-    font-size: 48px;
+    font-size: 45px;
     font-weight: bolder;
     color: #F9FAF8;
+    margin-bottom: 10px;
+}
+
+.sec1 button{
+    border-color:#1F2937;
+    margin-top: 15px;
 }
 
 button{
@@ -58,7 +64,7 @@ button{
 }
 
 .lower{
-    margin-top: 50px;
+    margin: 40px;
     display: flex;
     justify-content: space-between;
 }
@@ -69,6 +75,7 @@ button{
 
 .sec2{
     margin-top: 30px;
+    padding-bottom: 70px;
 }
 
 .imglist, .txtlist, .bigblack{
@@ -84,7 +91,7 @@ button{
 .bigblack{
     font-size: 36px;
     font-weight: bolder;
-    margin-bottom: 15px;
+    margin-bottom: 45px;
 }
 
 .content ul{
@@ -125,7 +132,7 @@ button{
 }
 
 .container{
-    width: 800px;
+    width: 1000px;
     height: 150px;
     background-color: #3882F6;
     display: flex;
@@ -140,7 +147,7 @@ button{
     margin-bottom: 5px;
 }
 
-.lower{
+.lowertxt{
     color: white;
     font-size: 15px;
     margin: 0px;
